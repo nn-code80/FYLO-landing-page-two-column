@@ -273,6 +273,8 @@ input::placeholder {
   
 }
 
+
+
 .compinfo{
     display: grid;
     grid-template-columns: repeat(4, 1fr); 
@@ -392,6 +394,9 @@ justify-self: center;
         grid-row: 1 / 2;
         margin-bottom: 40px;
 
+    }
+    .earlyaccess p{
+        margin-bottom: 20px;
     }
 
     .getstarted{
