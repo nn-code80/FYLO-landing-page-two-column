@@ -305,7 +305,7 @@ justify-self: center;
 .email{
     justify-content: start;
     position: relative;
-    right:17px;
+    right:12px;
 
 }
 
@@ -371,6 +371,10 @@ justify-self: center;
         position: relative;
         left:6px;
 
+    }
+
+    .phone img{
+        align-self: flex-end;
     }
 
     .bottom{
